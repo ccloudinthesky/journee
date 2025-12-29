@@ -562,10 +562,6 @@ curl -X POST http://localhost:3000/api/trips \
    - 未來可加入即時協作功能
 
 
-## 📄 License
-
-此專案為教育用途，作為 Web Programming 課程的作業。
-
 ## 🙏 致謝
 
 - Unsplash - 美麗的照片
