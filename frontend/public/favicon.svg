@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- 簡約的山脈 + 太陽圖標（代表旅遊/探索） -->
+  
+  <!-- 後方山脈 -->
+  <path d="M10 60 L30 40 L45 50 L60 35 L75 50 L90 40 L90 70 L10 70 Z" 
+        fill="#C8553E" 
+        opacity="0.3"/>
+  
+  <!-- 前方山脈 -->
+  <path d="M15 75 L35 55 L50 65 L65 50 L85 70 L90 70 L90 85 L15 85 Z" 
+        fill="#C8553E"/>
+  
+  <!-- 太陽 -->
+  <circle cx="75" cy="25" r="8" fill="#C8553E"/>
+  <circle cx="75" cy="25" r="6" fill="none" stroke="#FDF2F0" stroke-width="1.5" opacity="0.5"/>
+</svg>
+
