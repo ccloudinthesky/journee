@@ -1,6 +1,8 @@
 # Journee - 旅遊行程規劃應用程式
 
-一個現代化的互動式旅遊行程規劃應用，與 Google Maps 整合，幫助你更直觀地組織旅遊行程。
+一個互動式旅遊行程規劃應用，與 Google Maps 整合，幫助你更直觀地組織旅遊行程。
+<img width="1470" height="918" alt="image" src="https://github.com/user-attachments/assets/589f931f-db59-41e6-a4ed-b1b1ca98b61b" />
+
 
 ## 🌟 專案簡介
 
